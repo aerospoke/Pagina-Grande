@@ -16,10 +16,11 @@ body
 }
 .contenedor1
 {
-    display: flex inline-block;
+    display: flex;
+    justify-content: center;
     margin: auto;
     width: 98%;
-    height: 200px;
+    height: 20px;
     border-radius: 5px;
 }
 .cuadro2
